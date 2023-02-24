@@ -40,6 +40,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Python
 - Django Rest Framework
+- SqLite
 
 ## 💻 Projeto
 
