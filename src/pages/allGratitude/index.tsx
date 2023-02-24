@@ -7,7 +7,9 @@ import axios from "axios";
 import { useQuery } from "react-query";
 export default function Index(): JSX.Element {
   const { data, isLoading } = useQuery("gratitude", async () => {
-    const response = await axios.get("http://localhost:8000/api/");
+    const response = await axios.get(
+      "https://apigratidao.pythonanywhere.com/api/"
+    );
     return response.data;
   });
 

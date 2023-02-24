@@ -35,7 +35,7 @@ export function Registration() {
   const createGratitude = useMutation(
     async (data: FormData) => {
       const response = await axios.post(
-        "http://localhost:8000/api/create",
+        "https://apigratidao.pythonanywhere.com/api/create",
         data
       );
       return response.data;
