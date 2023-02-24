@@ -47,7 +47,7 @@ O site "Compartilhando Alegria" é uma plataforma online que tem como objetivo i
 
 ## 🔖 Layout
 
-Você pode visualizar o projeto através [desse link]().
+Você pode visualizar o projeto através [desse link](https://compartilhando-alegria.vercel.app/).
 
 ## :memo: Licença
 
